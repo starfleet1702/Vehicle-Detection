@@ -1,0 +1,5 @@
+Doubts Kalman Filter
+
+why are we moving prob to right as robnot moves right
+why are we multiplying by 0.6 as we are sure the color is red and the cell will be 2nd or 3rd
+quiz 15 why are we getting same result
